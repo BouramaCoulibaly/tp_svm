@@ -1,0 +1,6 @@
+setup.py
+svm.egg-info/PKG-INFO
+svm.egg-info/SOURCES.txt
+svm.egg-info/dependency_links.txt
+svm.egg-info/requires.txt
+svm.egg-info/top_level.txt
